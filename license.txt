@@ -1,4 +1,4 @@
-Tournament Bracket Library License.txt
+Tournament Bracket Library License.txt  
 
 Copyright (c) 2020 by Jakub Hájek (https://codepen.io/jimmyhayek/pen/yJkdEB)
 
